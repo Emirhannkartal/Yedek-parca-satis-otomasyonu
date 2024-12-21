@@ -1,0 +1,14 @@
+C:\Users\emirh\OneDrive\Masaüstü\c#\Prolabproje\Prolabproje\bin\Debug\Prolabproje.exe.config
+C:\Users\emirh\OneDrive\Masaüstü\c#\Prolabproje\Prolabproje\bin\Debug\Prolabproje.exe
+C:\Users\emirh\OneDrive\Masaüstü\c#\Prolabproje\Prolabproje\bin\Debug\Prolabproje.pdb
+C:\Users\emirh\OneDrive\Masaüstü\c#\Prolabproje\Prolabproje\obj\Debug\Prolabproje.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\c#\Prolabproje\Prolabproje\obj\Debug\Prolabproje.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\c#\Prolabproje\Prolabproje\obj\Debug\Prolabproje.exe
+C:\Users\emirh\OneDrive\Masaüstü\c#\Prolabproje\Prolabproje\obj\Debug\Prolabproje.pdb
+C:\Users\emirh\OneDrive\Masaüstü\Prolabproje\Prolabproje\bin\Debug\Prolabproje.exe.config
+C:\Users\emirh\OneDrive\Masaüstü\Prolabproje\Prolabproje\bin\Debug\Prolabproje.exe
+C:\Users\emirh\OneDrive\Masaüstü\Prolabproje\Prolabproje\bin\Debug\Prolabproje.pdb
+C:\Users\emirh\OneDrive\Masaüstü\Prolabproje\Prolabproje\obj\Debug\Prolabproje.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\Prolabproje\Prolabproje\obj\Debug\Prolabproje.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\Prolabproje\Prolabproje\obj\Debug\Prolabproje.exe
+C:\Users\emirh\OneDrive\Masaüstü\Prolabproje\Prolabproje\obj\Debug\Prolabproje.pdb
